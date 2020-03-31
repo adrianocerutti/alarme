@@ -1,2 +1,2 @@
-# alarmeMP3
-Alarme com áudio MP3 feito em VB.Net
+# alarme
+Alarme simples feito em VB.Net
